@@ -35,7 +35,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", None)
 MONGO_URL = os.getenv("MONGO_URL", None)
 
 ### ❖ ➥
-IMG_URL = os.getenv("IMG_URL", https://t.me/+Yavzkol8U24wNzA1).split()
+IMG_URL = os.getenv("IMG_URL", None)
 
 ### ❖ ➥
 SUPPORT_CHAT = os.getenv("SUPPORT_CHAT", https://t.me/+Yavzkol8U24wNzA1)
