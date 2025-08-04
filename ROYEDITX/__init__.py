@@ -50,7 +50,7 @@ API_HASH = os.getenv("API_HASH", None)
 API_ID = os.getenv("API_ID", None)
 
 ### ❖ ➥
-UPDATE_CHAT = os.getenv("UPDATE_CHAT", https://t.me/+Yavzkol8U24wNzA1)
+UPDATE_CHAT = os.getenv("UPDATE_CHAT", None)
 
 application = Application.builder().token(BOT_TOKEN).build()
 ROY = Client(
