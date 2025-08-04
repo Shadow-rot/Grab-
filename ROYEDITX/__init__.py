@@ -38,7 +38,7 @@ MONGO_URL = os.getenv("MONGO_URL", None)
 IMG_URL = os.getenv("IMG_URL", None)
 
 ### ❖ ➥
-SUPPORT_CHAT = os.getenv("SUPPORT_CHAT", https://t.me/+Yavzkol8U24wNzA1)
+SUPPORT_CHAT = os.getenv("SUPPORT_CHAT", None)
 
 ### ❖ ➥
 CHANNEL_ID = os.getenv("CHANNEL_ID", None)
