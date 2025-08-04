@@ -35,10 +35,10 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", None)
 MONGO_URL = os.getenv("MONGO_URL", None)
 
 ### ❖ ➥
-IMG_URL = os.getenv("IMG_URL", None).split()
+IMG_URL = os.getenv("IMG_URL", https://t.me/+Yavzkol8U24wNzA1).split()
 
 ### ❖ ➥
-SUPPORT_CHAT = os.getenv("SUPPORT_CHAT", None)
+SUPPORT_CHAT = os.getenv("SUPPORT_CHAT", https://t.me/+Yavzkol8U24wNzA1)
 
 ### ❖ ➥
 CHANNEL_ID = os.getenv("CHANNEL_ID", None)
@@ -50,7 +50,7 @@ API_HASH = os.getenv("API_HASH", None)
 API_ID = os.getenv("API_ID", None)
 
 ### ❖ ➥
-UPDATE_CHAT = os.getenv("UPDATE_CHAT", None)
+UPDATE_CHAT = os.getenv("UPDATE_CHAT", https://t.me/+Yavzkol8U24wNzA1)
 
 application = Application.builder().token(BOT_TOKEN).build()
 ROY = Client(
