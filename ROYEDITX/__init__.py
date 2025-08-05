@@ -20,7 +20,7 @@ LOGGER = logging.getLogger(__name__)
 OWNER_ID = os.getenv("OWNER_ID", None)
 
 ### ❖ ➥
-SUDO_USERS = os.getenv("SUDO_USERS", None).split()
+SUDO_USERS = os.getenv("SUDO_USERS", None)
 
 ### ❖ ➥
 LOGGER_ID = os.getenv("LOGGER_ID", None)
